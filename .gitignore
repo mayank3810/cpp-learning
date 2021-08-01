@@ -1,2 +1,8 @@
 cProgramms/test.c
 test.cpp
+dsaAlgo/Roadmap.txt
+*.exe*
+ProblemSolving/run.exe
+.vscode/tasks.json
+.vscode/launch.json
+
